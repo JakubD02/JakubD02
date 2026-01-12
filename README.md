@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**JakubD02/JakubD02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🛠️ Technologies & Tools
 
@@ -10,4 +8,3 @@
 
 [![email](https://img.shields.io/badge/email-your@email.com-blue?style=for-the-badge&logo=gmail)](mailto:jakubdudicz@email.com)
 [![My Skills](https://skillicons.dev/icons?i=cpp,github,visualstudio)](https://skillicons.dev)
--->
