@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Kuba
 
 
 ## 🛠️ Technologies & Tools
@@ -6,4 +6,4 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,vue,flask,django,flutter,git,github,gitlab,azure,dotnet,cmake,gradle,docker,sqlite,mysql,postgres,pytorch,aspectjfigma,ps,obsidian,visualstudio,vscode,clion,pycharm,eclipse,idea,linux,apple&theme=dark)](https://skillicons.dev)
 ## Contact Me! 📧
 
-[![email](https://img.shields.io/badge/jakubdudicz@email.com-blue?style=for-the-badge&logo=gmail)](mailto:jakubdudicz@email.com)
+[![email](https://img.shields.io/badge/jakubdudicz@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:jakubdudicz@email.com)
