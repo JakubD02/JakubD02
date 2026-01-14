@@ -6,7 +6,7 @@
 ## It doesn't work :((
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakubD02&show_icons=true&theme=radical)
 
-![LeetCode stats](https://github.com/lowlighter/metrics/blob/main/metrics.plugin.leetcode.svg)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jakubdudicz&theme=Dark)
 
 ## 🛠️ Technologies & Tools
 
