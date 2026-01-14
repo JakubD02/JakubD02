@@ -7,6 +7,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakubD02&show_icons=true&theme=radical)
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jakubdudicz&theme=Dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+
+## 📊 LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jakubdudicz?ext=heatmap&theme=dark" />
+</p>
 
 ## 🛠️ Technologies & Tools
 
