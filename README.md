@@ -5,7 +5,7 @@
 
 ## 📊 My GitHub Footprint
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubD02&theme=dark&hide_border=true&layout=compact&langs_count=3&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubD02)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/jakubdudicz?ext=heatmap&theme=dark" width="48%" />
