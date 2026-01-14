@@ -5,9 +5,11 @@
 
 ## 📊 My GitHub Footprint
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubD02&theme=dark&hide_border=true&layout=compact&langs_count=3&bg_color=00000000)
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/JakubD02?ext=heatmap&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubd02&layout=compact&theme=dark" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/jakubdudicz?ext=heatmap&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubD02&theme=dark&hide_border=true&layout=compact&langs_count=5" width="48%" />
 </p>
 
 ## 📊 LeetCode
