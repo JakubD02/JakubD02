@@ -3,8 +3,7 @@
 
 ## My Github Footprint
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubD02&layout=pie&theme=dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubD02&layout=compact&theme=dark)
 
 ## 📊 LeetCode
 <p align="center">
