@@ -3,11 +3,8 @@
 
 ## My Github Footprint
 
-## It doesn't work :((
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakubD02&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubD02&layout=pie&theme=dark)
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jakubdudicz&theme=Dark)
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 ## 📊 LeetCode
 <p align="center">
