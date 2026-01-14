@@ -46,5 +46,11 @@
 
 <h2 align="center">Connect with Me! 📧</h2>
 
-[![email](https://img.shields.io/badge/jakubdudicz@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:jakubdudicz@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jakub-dudicz/)
+<p align="center">
+  <a href="mailto:jakubdudicz@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/jakub-dudicz/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn" />
+  </a>
+</p>
