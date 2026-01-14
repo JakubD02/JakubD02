@@ -24,6 +24,14 @@ Cooming soon!
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,vue,flask,django,flutter,git,github,gitlab,azure,dotnet,cmake,gradle,docker,sqlite,mysql,postgres,pytorch,aspectjfigma,ps,obsidian,visualstudio,vscode,clion,pycharm,eclipse,idea,latex,linux,apple&theme=dark)](https://skillicons.dev)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 ---
 
 ## Connect with Me! 📧
