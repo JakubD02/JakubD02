@@ -2,11 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kuba!;" />
 </h1>
 
-<h2 align="center">Aspiring Computer Science Student 💻</h2>
+<h2 align="center">Aspiring Computer Science Student </h2>
 
-I'm a Computer Science student at POLSL <br>
-and a CS contest tutor 🏆
-
+<p align="center">
+    I'm a Computer Science student at POLSL 💻<br>
+    and a CS contest tutor 🏆
+</p>
 ---
 <!-- 
 ---
