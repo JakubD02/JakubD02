@@ -4,16 +4,19 @@
 
 <h2 align="center">Aspiring Computer Science Student 💻</h2>
 
-I'm a Computer Science student at POLSL
+I'm a Computer Science student at POLSL <br>
 and a CS contest tutor 🏆
 
 ---
-
+<!-- 
+---
 <h2 align="center">📊 My GitHub Footprint</h2>
 
 <p align="center">Cooming soon!</p>
 
 ---
+---
+-->
 
 <h2 align="center">🧩 LeetCode</h2>
 
