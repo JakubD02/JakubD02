@@ -1,4 +1,6 @@
-## Hi 👋, I'm Kuba
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kuba!;" />
+</h1>
 
 I'm a Computer Science student 💻  
 and a CS contest tutor 🏆
@@ -11,7 +13,7 @@ Cooming soon!
 
 ---
 
-## 📊 LeetCode
+## 🧩 LeetCode
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/jakubdudicz?ext=heatmap&theme=dark" />
 </p>
