@@ -8,7 +8,6 @@
     I'm a Computer Science student at POLSL 💻<br>
     and a CS contest tutor 🏆
 </p>
----
 
 <!-- 
 ---
@@ -19,6 +18,7 @@
 
 ---
 -->
+<br>
 
 <h2 align="center">🧩 LeetCode</h2>
 
