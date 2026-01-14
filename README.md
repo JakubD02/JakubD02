@@ -11,3 +11,4 @@
 ## Contact Me! 📧
 
 [![email](https://img.shields.io/badge/jakubdudicz@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:jakubdudicz@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jakub-dudicz/)
