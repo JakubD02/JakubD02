@@ -30,7 +30,7 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,vue,flask,django,flutter,git,github,gitlab,azure,dotnet,cmake,gradle,docker,sqlite,mysql,postgres,pytorch,aspectjfigma,ps,obsidian,visualstudio,vscode,clion,pycharm,eclipse,idea,latex,linux,apple&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,vue,django,flask,dotnet,flutter,postgres,mysql,sqlite,docker,git,github,gitlab,azure,cmake,gradle,pytorch,linux,apple,latex,pycharm,vscode,visualstudio,clion,idea,eclipse,obsidian&theme=dark)](https://skillicons.dev)
 
 ---
 
