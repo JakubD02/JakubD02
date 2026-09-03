@@ -6,8 +6,8 @@
 
 <p align="center">
     I'm a Computer Science student at POLSL 💻<br>
-    CS contest tutor 🏆
-    Passionate about calisthenics 🤸‍♂️ & travelling ✈️
+    CS contest tutor 🏆<br>
+    Passionate about calisthenics 🤸‍♂️ & travelling ✈️<br>
 </p>
 
 <!-- 
