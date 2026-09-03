@@ -31,8 +31,7 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,vue,django,flask,dotnet,flutter,postgres,mysql,sqlite,docker,git,github,gitlab,azure,cmake,gradle,pytorch,linux,apple,latex,pycharm,vscode,visualstudio,clion,idea,eclipse,obsidian&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,flask,pytorch,pandas,numpy,scikitlearn,java,dotnet,cpp,cs,js,html,css,vue,postgres,sqlite,mysql,redis,docker,git,github,gitlab,linux,bash,apple,latex,kotlin,firebase,postman,pycharm,vscode,visualstudio,clion,idea,obsidian&theme=dark)](https://skillicons.dev)
 ---
 
 <div align="center">
